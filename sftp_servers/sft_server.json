@@ -1,0 +1,16 @@
+{
+  "type": "sftp",
+  "host": "100.114.242.63",
+  "user": "daqwayne",
+  "password": "192455",
+  "remote_path": "/mnt/raid/project/books",
+  "ssh_key_file": "~/.ssh/id_rsa",
+  "port": 22,
+  "upload_on_save": true,
+  "sync_down_on_open": true,
+  "sync_same_age": true,
+  "confirm_downloads": false,
+  "confirm_sync": false,
+  "connect_timeout": 30
+}
+
